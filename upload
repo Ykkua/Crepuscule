@@ -1,0 +1,83 @@
+{
+  "title": "Crepuscule",
+  "description": "YLark Alfen a été pris en charge par des parents éloignés, suite au décès de ses deux parents. Il possède des yeux rouges comme les vampires et est martyrisé par les humains qui le prennent pour un monstre. Un jour, il rencontre un autre petit garçon avec les mêmes yeux que lui, Setz. Ils deviennent amis mais Lark apprend qu'il doit être envoyé à l'orphelinat car sa famille ne veut plus de lui. Setz lui propose alors de le suivre... dans le monde des vampires.",
+  "Dessinateur": "Yamchi",
+  "Scénariste": "Mirchi",
+  "cover": "https://cdn.myanimelist.net/images/manga/5/186574l.webp",
+  "chapters": {
+    "1": {
+      "title": "Vague (01)",
+       "volume": "1",
+      "groups": {
+        "MiamMiam Team": "/proxy/api/imgur/chapter/5tzOrTk/"
+      },
+      "last_updated": "1622224646"
+    },
+      "2": {
+      "title": "Vague (02)",
+      "volume": "1",
+      "groups": {
+      "MiamMiam Team": "/proxy/api/imgur/chapter/yqUBKfe/"
+   },
+   "last_updated": "1622224646"
+  },
+   "3": {
+      "title": "Vague (03)",
+      "volume": "1",
+      "groups": {
+        "MiamMiam Team": "/proxy/api/imgur/chapter/T43xa45/"
+      },
+      "last_updated": "1622224646"
+    },
+     "4": {
+      "title": "Vague (04)",
+      "volume": "1",
+      "groups": {
+        "MiamMiam Team": "/proxy/api/imgur/chapter/kdoCDda/"
+      },
+      "last_updated": "1622224646"
+    },
+      "5": {
+      "title": "Vague (05)",
+      "volume": "1",
+      "groups": {
+        "MiamMiam Team": "/proxy/api/imgur/chapter/Mw7YFOU/"
+      },
+      "last_updated": "1622224646"
+    },
+      "6": {
+      "title": "Vague (06)",
+      "volume": "1",
+      "groups": {
+        "MiamMiam Team": "/proxy/api/imgur/chapter/EOT1OaO/"
+      },
+      "last_updated": "1622224646"
+    },
+      "7": {
+      "title": "Vague (07)",
+      "volume": "1",
+      "groups": {
+        "MiamMiam Team": "/proxy/api/imgur/chapter/6KlrcsT/"
+      },
+      "last_updated": "1622224646"
+    },
+      "8": {
+      "title": "Vague (08)",
+      "volume": "1",
+      "groups": {
+        "MiamMiam Team": "/proxy/api/imgur/chapter/EhaUsvh/"
+      },
+      "last_updated": "1622224646"
+    },
+      "9": {
+      "title": "Vague (09)",
+      "volume": "1",
+      "groups": {
+        "MiamMiam Team": "/proxy/api/imgur/chapter/1uBmsLJ/"
+      },
+      "last_updated": "1622224646"
+    }
+    
+   }
+  }
+
